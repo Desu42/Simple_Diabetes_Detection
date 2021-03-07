@@ -5,7 +5,9 @@ Diabetes prediction web app using streamlit and Random Forests.
 How to run:
 Open folder which contains program
 In the upper bar write cmd and press ENTER
+
 Then
+
 streamlit run "Diabetes_Detection_Web.py"
 
 Random Forest Documentation:
