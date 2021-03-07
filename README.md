@@ -14,6 +14,9 @@ Random Forest Documentation:
 
 https://builtin.com/data-science/random-forest-algorithm
 
+In short: Multiple decision trees and democracy.
+
 Data Set:
 
 https://www.kaggle.com/saurabh00007/diabetescsv
+
