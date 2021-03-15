@@ -1,6 +1,6 @@
 # Simple_Diabetes_Detection
 
-Diabetes prediction web app using streamlit and Random Forests.
+Diabetes prediction web app using Streamlit and Random Forests.
 
 How to run:
 Open folder which contains program
