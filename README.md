@@ -1,4 +1,4 @@
-# Simple_Diabetes_Detection
+# Diabetes Detection
 
 Diabetes prediction web app using Streamlit and Random Forests.
 
